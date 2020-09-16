@@ -1,29 +1,49 @@
 # J.A.R.V.I.S-Personal-Assistant
 
+INTRODUCTION
+
+Jarvis, aims to help humans by trying to understand them and figuring out best ways to respond to them. Jarvis is named after Tony Stark's artificially intelligent assistant in the Iron Man series. However, the inspiration is not restricted to the Iron Man series, but a huge line of books, movies and projects which led to this dream. A dream of living with artifical intelligence.
+
+By design Jarvis does not aim harm, but this is software. Who knows, what could go wrong. I will make it straight. I accept no liability, if one day Jarvis or alike overthrow humans and rule the world.
+
 Requirements:
 
+--pyttsx3
 
-datetime
+--datetime
 
-os
+--speech_recognition
+
+--wikipedia
+
+--webbrowser
+
+--psutil
+
+--pyjokes
+
+--os
+
+--pyautogui
 
 
-pyttsx3
 
-wikipedia
 
-speech_recognition
 
-webbrowser
+Required Packages
 
-sys
+pip install SpeechRecognition
 
-smtplib
+pip install datetime
 
-requests
+pip install pyttsx3
 
-json
+pip install Psutil
 
-defflib
+pip install webbrowser
 
-geocoder
+pip install pyjokes
+
+pip install wikipedia
+
+pip install pyautogui
