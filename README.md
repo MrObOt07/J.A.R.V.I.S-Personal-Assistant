@@ -12,9 +12,9 @@ By design Jarvis does not aim harm, but this is software. Who knows, what could 
 
 ## Uses:
 
-- **Launch Applications **
-- **Direct search in YouTube **
--  **Direct search in chrome **
+- **Launch Applications**
+- **Direct search in YouTube**
+-  **Direct search in chrome**
 -  **tells about CPU and Battery Status**
 -  **Tells Date and Time**
 -  **Take ScreenShot**
