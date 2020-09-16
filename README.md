@@ -12,9 +12,9 @@ By design Jarvis does not aim harm, but this is software. Who knows, what could 
 
 ## Uses:
 
-- **Open any App,Browser and many more..... with just a voice command**
-- **Direct search in YouTube by voice command**
--  **Direct search in chrome by voice command**
+- **Launch Applications **
+- **Direct search in YouTube **
+-  **Direct search in chrome **
 -  **tells about CPU and Battery Status**
 -  **Tells Date and Time**
 -  **Take ScreenShot**
@@ -51,6 +51,7 @@ By design Jarvis does not aim harm, but this is software. Who knows, what could 
 
 ## Required Packages:
 
+```
 > pip install SpeechRecognition
 
 > pip install datetime
@@ -67,5 +68,7 @@ By design Jarvis does not aim harm, but this is software. Who knows, what could 
 
 > pip install pyautogui
 
+```
 
-
+## Contribution
+There are several ways to improve Jarvis. If you have any suggestions, please let me know. Or better, fork the repository, play with Jarvis and contribute by just sending a pull request.
